@@ -19,7 +19,7 @@ const Gallery = () => {
             </div>
             <div className="col-md-4">
                 <div className="product">
-                    <img src="https://th.bing.com/th?id=OPAC.CWwbYSWtC2%2bI3A474C474&w=592&h=550&o=5&dpr=1.5&pid=21.1" className="card-img-top" alt="Product 2"/>
+                    <img src="https://img.freepik.com/premium-photo/adjustable-desk-drawer-organizers-multiple-sizes_1168612-323039.jpg?w=900" className="card-img-top" alt="Product 2"/>
                     <h5>Gloso Black Metal Mesh Desk Organizer - 9 Compartment Stationary Storage Box</h5>
                     <p>The GloSo Black Metal Mesh Desk Organizer is a 9 compartment stationary storage box that helps you manage your desk efficiently. It's space-saving wooble design makes it perfect for home, office and school supplies.</p>
                     <a href="#" className="btn btn-primary">View Details</a>
